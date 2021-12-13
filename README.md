@@ -9,7 +9,7 @@
 - Vue / React
 - Vite / Webpack / Rollup
 - Framework Design / Open source
-- Mysql / MongoDB / Nginx 
+- Mysql / Redis / MongoDB / Nginx 
 - Java
 - Go
 
