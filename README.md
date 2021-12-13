@@ -1,5 +1,16 @@
 
 ### Hi there 👋 I'm chenguzhen87!
-- 🔭 I’m currently working on [parajs](https://github.com/parajs)、[pansy](https://github.com/pansyjs) and [alita](https://github.com/alitajs) projects ...
+
+## Things I am passionate about
+- UI Design
+- Typescript / JavaScript
+- Mini-Program
+- Nodejs
+- Vue / React
+- Vite / Webpack / Rollup
+- Framework Design / Open source
+- Mysql / MongoDB / Nginx 
+- Java
+- Go
 
 ![chenguzhen87's github stats](https://github-readme-stats.vercel.app/api?username=chenguzhen87&show_icons=true&count_private=true)
