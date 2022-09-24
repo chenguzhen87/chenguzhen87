@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm chenguzhen87!
+### <center> Hi there 👋 I'm chenguzhen87! </center>
 
 ## Things I am passionate about
 - UI Design
