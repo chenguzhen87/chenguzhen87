@@ -2,7 +2,7 @@
 ### <h1 align="center">Hi there 👋 I'm chenguzhen87! </h1>
 
 
-## Things I am passionate about
+## <h3 align="center">Things I am passionate about</h3> 
 - UI Design
 - Vue / React / Tauri / Electron / React-native / Nuxt / Mini-Program / Uniapp
 - Vite / Webpack / Rollup
