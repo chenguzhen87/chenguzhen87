@@ -1,5 +1,5 @@
 
-### <center> Hi there 👋 I'm chenguzhen87! </center>
+### <h1 align="center">Hi there 👋 I'm chenguzhen87! </h1>
 
 ## Things I am passionate about
 - UI Design
